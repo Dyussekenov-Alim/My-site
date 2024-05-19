@@ -248,3 +248,12 @@ a{
     top: 5250px;
     left: 0.5%;
 }
+.joker{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+.jokerpapa{
+    display: flex;
+    justify-content: center;
+}
